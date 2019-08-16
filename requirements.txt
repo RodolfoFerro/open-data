@@ -1,0 +1,8 @@
+xlrd
+xlwt
+numpy
+folium
+pandas
+tornado
+matplotlib
+jupyterlab
