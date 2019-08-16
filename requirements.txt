@@ -1,8 +1,12 @@
 xlrd
 xlwt
+wget
 numpy
+scipy
+imgkit
 folium
 pandas
 tornado
+seaborn
 matplotlib
 jupyterlab
