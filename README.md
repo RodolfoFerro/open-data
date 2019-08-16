@@ -1,4 +1,4 @@
-# `open-data`
+# open-data 📊
 
 Taller introductorio a manipulación y visualización de datos abiertos.
 
