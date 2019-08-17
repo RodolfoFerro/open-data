@@ -15,6 +15,7 @@ Ve a <https://mybinder.org> y en el campo **GitHub repository name or URL** copi
 
 Si te resulta más sencillo, puedes pulsar el siguiente botón: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RodolfoFerro/open-data/master)
 
+<!--
 ## Visualizaciones
 
 A continuación puedes ver algunas de las visualizaciones generadas:
@@ -38,3 +39,4 @@ A continuación puedes ver algunas de las visualizaciones generadas:
 ### Población atendida por punto de conectividad 2 – Positron
 <iframe width="100%" height="500" src="CardtoDB_positron_puntos.html" frameborder="0" allowfullscreen></iframe>
 <br><br><br>
+-->
